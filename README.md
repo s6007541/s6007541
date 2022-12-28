@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sorn Chottananurak
+- 👋 Hi, I’m Sorn Chottananurak : This is my personal website https://s6007541.github.io/sornshaman.github.io
 - 👀 I’m interested in ...  data science, computer science, computer architecture, electrical engineering
 - 🌱 I’m currently learning ... data science, machine learning, deep learning, computer architecture, 
 - 💞️ I’m looking to collaborate on ...
