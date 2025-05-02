@@ -6,7 +6,7 @@
 
 🏦 Additionally, I gained valuable industry experience as a **Data Scientist Intern at SCB (Siam Commercial Bank)** in Bangkok, Thailand, where I led the 'Risk-Based Pricing and Cut-off Optimization' project.
 
-🏆 **Publications:**
+🏆 **Publications**
 - **Test-Time Adaptation with Binary Feedback**
   - Taeckyung Lee, Sorn Chottananurak, Junsu Kim, Jinwoo Shin, Taesik Gong, Sung-Ju Lee.
   - *International Conference on Machine Learning (ICML), 2025* (Acceptance Rate: 26.9%)
@@ -19,12 +19,12 @@
 - **UWB Knows Who Spoke: Speaker Diarization with Speech Gesture Sensing and Audio**
   - Wan Ju Kang, Ryuhaerang Choi, Sorn Chottananurak, Sangwook Bak, Sung-Ju Lee
 
-💻 **Technical Skills:**
+💻 **Technical Skills**
 - **Languages:** Python
 - **Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Transformer/LLM Frameworks
 - **Cloud Platforms:** Azure, Spark on Databricks
 
-💡 **My research interests include:**
+💡 **My research interests include**
 - 🖼️ **Computer Vision**
 - 🤖 **Reinforcement Learning**
 - ✨ **Generative AI/NLP**
@@ -39,7 +39,7 @@
 
 ---
 
-**More About My Journey:**
+**More About My Journey**
 
 My academic journey at KAIST, specializing in AI within my dual Computer Science and Electrical Engineering degrees, has been incredibly enriching. At the Networking & Mobile Systems Lab, I was deeply involved in the full lifecycle of research, contributing to projects spanning Machine Learning, Mobile Systems, and Human-Computer Interaction. This hands-on experience culminated in publications at top-tier AI conferences like NeurIPS, CVPR, and ICML, showcasing my ability to conduct impactful research.
 
